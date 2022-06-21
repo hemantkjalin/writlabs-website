@@ -1,0 +1,26 @@
+{
+    "name": "writlabs",
+    "version": "1.0.0",
+    "description": "React Next.js Technology & IT Startups Template",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build && next export",
+        "start": "next start"
+    },
+    "author": "envytheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "firebase": "^9.8.1",
+        "next": "^12.1.5",
+        "react": "^18.0.0",
+        "react-accessible-accordion": "^5.0.0",
+        "react-animate-on-scroll": "^2.1.5",
+        "react-dom": "^18.0.0",
+        "react-image-lightbox": "^5.1.1",
+        "react-modal-video": "^1.2.6",
+        "react-owl-carousel3": "^2.2.5",
+        "react-tabs": "^5.1.0",
+        "sass": "^1.50.1"
+    }
+}
